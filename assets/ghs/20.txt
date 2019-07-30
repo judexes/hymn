@@ -1,0 +1,27 @@
+<div class=“hymn”><h4 class=“hymn-num”>20</h4><h4 class=“hymn-title”>	THE WAY, THE TRUTH, THE  LIFE</h4><ol id=“song”>   
+<li>	“I am the Way,” the Saviour said,
+	And I would follow on,
+	Content to know that after night
+	Shall break a glorious dawn.
+<span>		“I am the Way, the Truth and the Life,
+		No man cometh unto the Father but by me.”
+		“I am the Way, the Truth and the Life,
+		No man cometh unto the Father but by me.”
+</span>
+
+</li><li>	“I am the Truth,” then Truth shall be,
+	A beacon light to guide
+	My bark across the Stormy Sea
+	To where still waters glide.
+
+</li><li>	“I am the Life,” there is no death,
+	For me to fear nor dread,
+	Since by His all-atoning blood,
+	My life to His is wed.
+
+<span>	“I am the Way, the Truth and the Life,
+		No man cometh unto the Father but by me.”
+		“I am the Way, the Truth and the Life,
+		No man cometh unto the Father but by me.”
+</span>
+</li></ol></div>

@@ -1,0 +1,38 @@
+<div class=“hymn”><h4 class=“hymn-num”>215</h4><h4 class=“hymn-title”>O HAPPY DAY, THAT FIXED MY CHOICE</h4><ol id=“song”>   
+<li>	O happy day, that fixed my choice,
+	On Thee, my Saviour and my God!
+	Well may this glowing heart rejoice,
+	And tell its raptures all abroad.
+
+<span>	Happy day, happy day,
+		When Jesus washed my sins away!
+		He taught me how to watch and pray,
+		And live rejoicing ev’ry day,
+		Happy day, happy day,
+		When Jesus washed my sins away!
+</span>
+
+</li><li>	‘‘Tis done, the great transactions done!
+	I am my Lord’s and He is mine:	
+	He drew me and I followed on,
+	Charmed to confess the voice divine.
+
+</li><li>	Now rest, my long-divided heart,
+	Fixed on this blissful centre, rest:
+	Nor ever from thy Lord depart,
+	With Him of every good possessed.
+<span>	Happy day, happy day,
+		When Jesus washed my sins away!
+		He taught me how to watch and pray,
+		And live rejoicing ev’ry day,
+		Happy day, happy day,
+		When Jesus washed my sins away!
+</span>
+
+
+</li><li>	High heaven, that heard the solemn vow,
+	That vow renewed shall daily hear,
+	Till in life’s latest hour I bow,
+	And bless in death a bond so dear.
+
+</li></ol></div>

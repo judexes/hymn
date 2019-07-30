@@ -1,0 +1,35 @@
+<div class=“hymn”><h4 class=“hymn-num”>8</h4><h4 class=“hymn-title”>	BLESSED BE THE NAME</h4><ol id=“song”>   
+<li>	O for a thousand tongues to sing,
+	Blessed be the name of the Lord!
+	The glories of my God and King!
+	Blessed be the name of the Lord!
+
+<span>		Blessed be the name, blessed be the name,
+		Blessed be the name of the Lord!
+		Blessed be the name, blessed be the name,
+		Blessed be the name of the Lord!
+</span>
+
+</li><li>	Jesus! the name that charms our fears,
+	Blessed be the name of the Lord!
+	’Tis music in the sinner’s ears,
+	Blessed be the name of the Lord!
+
+</li><li>	He breaks the pow’r of cancelled sin,
+	Blessed be the name of the Lord!
+	His blood can make the foulest clean,
+	Blessed be the name of the Lord!
+
+</li><li>	I never shall forget that day,
+	Blessed be the name of the Lord!
+	When Jesus washed my sins away,
+	Blessed be the name of the Lord!
+
+
+<span>		Blessed be the name, blessed be the name,
+		Blessed be the name of the Lord!
+		Blessed be the name, blessed be the name,
+		Blessed be the name of the Lord!
+</span>
+
+</li></ol></div>

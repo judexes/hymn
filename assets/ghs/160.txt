@@ -1,0 +1,33 @@
+<div class=“hymn”><h4 class=“hymn-num”>160</h4><h4 class=“hymn-title”>THE SHEPHERD OF LOVE</h4><ol id=“song”>   
+<li>	The Shepherd of Love is seeking the lost
+	In paths that are rough and steep;
+	He’s calling the lambs that have gone astray,
+	He’s calling, calling His sheep.
+
+<span>	Out of your darkness of sin and shame,
+		Into His love, forever the same;
+		Come to Him now, believe on His name,
+		O answer the call today.
+</span>
+
+</li><li>	The Shepherd of Love knows His sheep by name,
+	And tenderly leads the way;
+	O weary one, come to the Shepherd’s fold,
+	He’s calling, calling today.
+</li><li>	The Shepherd of Love our ransom hath paid,
+	And offers salvation free;
+	He’s patiently waiting for thee to come,
+	He’s calling, calling for thee.
+
+</li><li>	The Shepherd of Love now seeketh His sheep,
+	He seeketh whate’er the cost;
+	Behold, He is calling the wand’rer home,
+	He’s calling, calling the lost.
+
+<span>	Out of your darkness of sin and shame,
+		Into His love, forever the same;
+		Come to Him now, believe on His name,
+		O answer the call today.
+</span>
+
+</li></ol></div>

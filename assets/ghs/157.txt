@@ -1,0 +1,29 @@
+<div class=“hymn”><h4 class=“hymn-num”>157</h4><h4 class=“hymn-title”>WANDERING CHILD, O COME HOME</h4><ol id=“song”>   
+<li>	Have you wandered away from your Father’s care,
+	Heavy-hearted and sad do you roam?	
+	There’s a sweet gentle voice calling now to you - 
+	Wand’ring child, wand’ring child, O, come home.
+
+<span>	Child, come home, child, come home,
+		Wand’ring child, why longer roam?
+		’Tis thy Father  entreats,
+		Wand’ring child, O, come home.
+</span>
+
+</li><li>	Is your frail bark adrift on life’s raging sea,
+	Are you tossed on its billows and foam?
+	There’s a safe harbour home, waiting now for you -
+	Wand’ring child, wand’ring child, O, come home.
+
+</li><li>	He is pleading today, heed His gentle voice,
+	As He bids you no longer to roam,
+	To that dear Father’s house haste without delay - 
+	Wand’ring child, wand’ring child, O, come home.
+
+<span>	Child, come home, child, come home,
+		Wand’ring child, why longer roam?
+		’Tis thy Father  entreats,
+		Wand’ring child, O, come home.
+</span>
+
+</li></ol></div>

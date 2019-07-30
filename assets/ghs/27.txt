@@ -1,0 +1,51 @@
+<div class=“hymn”><h4 class=“hymn-num”>27</h4><h4 class=“hymn-title”>	I  AM  BOUND  FOR  CANAAN</h4><ol id=“song”>   
+<li>	Storms do not alarm me,
+	They sometime must cease,
+	Trials cannot harm me,
+	For I have blessed peace;
+	All I’ve left behind me,
+	I long for no more,
+	Better things shall find me
+	On Canaan’s shore.
+
+<span>	Let those who will stay in Egypt land,
+		I am bound for Canaan,
+		Where milk and honey flowing,
+		Shall ev’ry need supply;
+		All battles fought and 
+		The vict’ry won,
+		Peace and joy my portion,
+		My soul shall rest,
+		On its shore by and by.
+</span>
+
+</li><li>	Troubles do not fret me,
+	They cannot abide,
+	Tho’ they may beset me,
+	In Jesus, I will hide;
+	All the world’s commotion
+	About me may roar,
+	There’s no stormy ocean
+	On Canaan’s shore.
+
+</li><li>	I in grace abiding,
+	Am trying to stay,
+	In the shadow hiding
+	Of Canaan’s perfect day;
+	All I trust may fail me,
+	’Twill matter no more,
+	Nothing can assail me
+	On Canaan’s shore.
+
+<span>	Let those who will stay in Egypt land,
+		I am bound for Canaan,
+		Where milk and honey flowing,
+		Shall ev’ry need supply;
+		All battles fought and 
+		The vict’ry won,
+		Peace and joy my portion,
+		My soul shall rest,
+		On its shore by and by.
+</span>
+
+</li></ol></div>

@@ -1,0 +1,44 @@
+<div class=“hymn”><h4 class=“hymn-num”>200 </h4><h4 class=“hymn-title”>
+THE NINETY AND NINE	</h4><ol id=“song”>   
+<li>	There were ninety and nine that safely lay
+	In the shelter of the fold,
+	But one was out on the hills away,
+	Far off from the gates of gold -
+	Away on the mountains wild and bare,
+	Away from the tender Shepherd’s care,
+	Away from the tender Shepherd’s care.
+
+</li><li>	“Lord, Thou hast here Thy ninety and nine;
+	Are they not enough for Thee?”
+	But the Shepherd made answer:
+	“This of Mine has wandered away from Me;
+	And although the road be rough and steep,
+	I go to the desert to find My sheep,
+	I go to the desert to find My sheep.”
+
+</li><li>	But none of the ransomed ever knew
+	How deep were the waters crossed;
+	Nor how dark was the night that the Lord passed thro’
+	Ere He found His sheep that was lost;
+	Out in the desert He heard its cry -
+	Sick and helpless, and ready to die,
+	Sick and helpless, and ready to die.
+
+</li><li>	“Lord, whence are those blood-drops all the way
+	That mark out the mountain’s track?”
+	“They were shed for one who had gone astray
+	Ere the Shepherd could bring him back.”
+	“Lord, whence are Thy hands so rent and torn?”
+	“They’re pierced tonight by many a thorn;
+	They’re pireced tonight by many a thorn.”
+
+</li><li>	But all thro’ the mountains, thunder-riven,
+	And up from the rocky steep.
+	There arose a glad cry to the gate of heaven,
+	“Rejoice! I have found my sheep!”
+	And the angels echoed around the throne,
+	“Rejoice, for the Lord brings back His own!
+	Rejoice, for the Lord brings back His own.”
+
+
+</li></ol></div>

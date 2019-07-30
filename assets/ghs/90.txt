@@ -1,0 +1,27 @@
+<div class=“hymn”><h4 class=“hymn-num”>90</h4><h4 class=“hymn-title”>	  O LOVE THAT WILT NOT LET ME GO </h4><ol id=“song”>   
+<li>	O Love that wilt not me go,
+	I rest my weary soul in Thee:
+	I give Thee back the life I owe,
+	That in Thine ocean depths its flow
+	May richer, fuller be.
+
+</li><li>	O Light that follow’st all my way,
+	I yield my flick’ring torch to Thee:
+	My heart restores its borrow’d ray,
+	That in Thy sunshine’s blaze its day
+	May brighter, fairer be.
+
+</li><li>	O Joy that seekest me through pain,
+	I cannot close my heart to Thee:
+	I trace the rainbow through the rain,
+	And feel the promise is not vain,
+	That morn shall tearless be.
+
+</li><li>	O Cross that liftest up my head,
+	I dare not ask to fly from Thee;
+	I lay in dust life’s glory dead,
+	And from the ground there blossoms red
+	Life that shall endless be.
+
+
+</li></ol></div>

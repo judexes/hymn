@@ -1,0 +1,29 @@
+<div class=“hymn”><h4 class=“hymn-num”>42	</h4><h4 class=“hymn-title”>CLOSE  TO  THEE</h4><ol id=“song”>   
+<li>	Thou, my everlasting portion,
+	More than friend or life to me;
+	All along my pilgrim journey,
+	Saviour, let me walk with Thee.
+<span>	Close to Thee, ( 4 times )
+		All along my pilgrim journey
+		Saviour, let me walk with Thee.
+</span>
+
+</li><li>	Not for ease or worldly pleasure,
+	Nor for fame my prayer shall be;
+	Gladly will I toil and suffer,
+	Only let me walk with Thee.
+<span>	Close to Thee, ( 4 times)
+		Gladly will I toil and suffer,
+		Only let me walk with Thee.
+</span>
+
+</li><li>	Lead me through the vale of shadows,
+	Bear me o’er life’s fitful sea;
+	Then the gate of life eternal
+	May I enter, Lord, with Thee.
+<span>	Close to Thee, ( 4 times )
+		Then the gate of life eternal
+		May I enter, Lord, with Thee. 
+</span>
+
+</li></ol></div>

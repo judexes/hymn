@@ -1,0 +1,33 @@
+<div class=“hymn”><h4 class=“hymn-num”>60</h4><h4 class=“hymn-title”>	WHERE COULD I GO?</h4><ol id=“song”>   
+<li>	Living below in this old sinful world,
+	Hardly a comfort can afford;
+	Striving alone to face temptations sore,
+	Where could I go but to the Lord?
+
+<span>	Where could I go, O where could I go,
+		Seeking a refuge for my soul?
+		
+
+		Needing a friend to help me in the end,
+		Where could I go but to the Lord?
+</span>
+
+</li><li>	Neighbours are kind, I love them ev’ry one,
+	We get along in sweet accord;
+	But when my soul needs manna from above,
+	Where could I go but to the Lord?
+
+</li><li>	Life here is grand with friends I love so dear,
+	Comfort I get from God’s own Word;
+	Yet when I face the chilling hand of death,
+	Where could I go but to the Lord?
+
+<span>	Where could I go, O where could I go,
+		Seeking a refuge for my soul?
+		
+
+		Needing a friend to help me in the end,
+		Where could I go but to the Lord?
+</span>
+
+</li></ol></div>

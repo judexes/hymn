@@ -1,0 +1,29 @@
+<div class=“hymn”><h4 class=“hymn-num”>7</h4><h4 class=“hymn-title”>	TURN YOUR EYES UPON JESUS</h4><ol id=“song”>   
+<li>	O soul, are you weary and troubled?
+	No light in the darkness you see?
+	There’s light for a look at the Saviour,
+	And life more abundant and free!
+
+	<span>Turn your eyes upon Jesus,
+		Look full in His wonderful face,
+		And the things of earth will grow strangely dim
+		In the light of His glory and grace.
+</span>
+
+</li><li>	Thro’ death into life everlasting
+	He passed, and we follow Him there;
+	Over us sin no more has dominion -
+	For more than conq’rors we are!
+
+</li><li>	His word shall not fail you - He promised;
+	Believe Him, and all will be well:
+	Then go to a world that is dying,
+	His perfect salvation to tell!
+
+	<span>Turn your eyes upon Jesus,
+		Look full in His wonderful face,
+		And the things of earth will grow strangely dim
+		In the light of His glory and grace.
+</span>
+
+</li></ol></div>

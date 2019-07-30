@@ -1,0 +1,35 @@
+<div class=“hymn”><h4 class=“hymn-num”>141</h4><h4 class=“hymn-title”>I SHALL SEE THE KING</h4><ol id=“song”>   
+<li>	I shall see the King 
+	Where the angels sing,
+	I shall see the King some day,
+	In the better land,
+	On the golden strand,
+	And with Him shall ever stay.
+		
+<span> In His glory, I shall see the King,
+		And forever endless praises sing;
+		’Twas on calvary Jesus died for me;
+		I shall see the King some day.
+</span>
+
+</li><li>	In the land of song, 
+	In the glory throng,
+	Where there never comes a night,				With my Lord once slain 
+	I shall ever reign
+	In the glory-land of light.
+
+</li><li>	I shall see the King, 
+	All my tributes bring,
+	And shall look upon His face;
+	Then my song shall be
+	How He ransomed me
+	And has kept me by His grace.
+
+<span> In His glory, I shall see the King,
+		And forever endless praises sing;
+		’Twas on calvary Jesus died for me;
+		I shall see the King some day.
+</span>
+
+
+</li></ol></div>

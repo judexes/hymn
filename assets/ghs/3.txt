@@ -1,0 +1,36 @@
+<div class=“hymn”><h4 class="hymn-num">3</h4><h4 class=“hymn-title”>	IMPATIENT HEART, BE STILL</h4><ol id=“song”>   
+<li>	Impatient heart, be still !
+	What tho’ He tarries long?
+	What tho’ the triumph song
+ 	Is still delay’d?
+	Thou hast His promise sure,
+	And that is all secure;
+	Be not afraid! Be not afraid!
+		<span>Be still ! ... be still !
+		Impatient heart ... be still !</span>
+
+</li><li>	My eager heart, be still!
+	Thy Lord will surely come,
+	And take thee to His home,
+	With Him  to dwell;
+	It may not be today;
+	And yet, my soul, it may;
+	I cannot tell, I cannot tell.
+<span>	Be still ! ... be still !
+		My eager heart ... be still !
+</span>
+
+</li><li>	My anxious heart, be still!
+	Watch, work, and pray, and then
+	It will not matter when
+	Thy Lord  shall come;
+	At midnight, or at noon;
+	He cannot come too soon
+	To take thee home, To take thee home.
+<span>
+		Be still  ! ... be still  !
+		My anxious heart ... be still !
+</span>
+
+
+</li></ol></div>

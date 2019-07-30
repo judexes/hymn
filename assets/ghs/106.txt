@@ -1,0 +1,33 @@
+<div class=“hymn”><h4 class=“hymn-num”>106</h4><h4 class=“hymn-title”>TELL THE WHOLE WIDE WORLD</h4><ol id=“song”>   
+<li>	Tell the whole wide world of Jesus,
+	Bear the news from shore to shore;
+	Telling sinners of the Saviour,
+	Let the light spread more and more.
+
+<span>	Tell the world, the whole wide world;
+		Bear the news from shore to shore;
+		Tell the whole wide world of Jesus,
+		Praise His name for ever more !
+</span>
+</li><li>	Send abroad the gospel heralds,
+	Let them take the blessed light
+	Into every land of darkness,
+	Piercing through the shades of night.
+
+</li><li>	Yes, we’ll send the joyful message
+	Over mountain, over wave,
+	Telling everywhere of Jesus,
+	And His mighty power to save.
+
+</li><li>	While we pray for other nations,
+	Send them help with willing hand,
+	Let us not forget the home fields -
+	Jesus for our native land!
+
+<span>	Tell the world, the whole wide world;
+		Bear the news from shore to shore;
+		Tell the whole wide world of Jesus,
+		Praise His name for ever more !
+</span>
+
+</li></ol></div>

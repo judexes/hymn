@@ -1,0 +1,29 @@
+<div class=“hymn”><h4 class=“hymn-num”>120</h4><h4 class=“hymn-title”>SPEAK A WORD</h4><ol id=“song”>   
+<li>	Speak a word, a loving word for Jesus,
+	Ev’rywhere you go;
+	Tell poor sinners how He died to save them
+	From eternal woe.
+
+<span>	Speak a word for Jesus, speak it quickly,
+		Swiftly glides the time away,...
+		Daily tell the wondrous story of the Master’s glory,
+		Speak a loving word today.
+</span>
+
+</li><li>	Speak a word, a tender word for Jesus,
+	To the sin-sick soul;
+	Tell him Christ, who came to save the vilest,
+	Waits to  make him whole.
+
+</li><li>	Speak a word, a warning word for Jesus,
+	Speak it day by day,
+	Strive to lead some weak and wand’ring brother
+	In the narrow way.
+
+<span>	Speak a word for Jesus, speak it quickly,
+		Swiftly glides the time away,...
+		Daily tell the wondrous story of the Master’s glory,
+		Speak a loving word today.
+</span>
+
+</li></ol></div>

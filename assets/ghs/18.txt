@@ -1,0 +1,29 @@
+<div class=“hymn”><h4 class=“hymn-num”>18</h4><h4 class=“hymn-title”>	BLESSED  ASSURANCE</h4><ol id=“song”>   
+<li>	Blessed assurance, Jesus is mine!
+	Oh, what a fore-taste of glory divine!
+	Heir of salvation, purchase of God,
+	Born of His Spirit, wash’d in His blood.
+
+<span>	This is my story, this is my song,
+		Praising my Saviour all the day long;
+		This is my story, this is my song,
+		Praising my Saviour all the day long.
+</span>
+
+</li><li>	Perfect submission, perfect delight,
+	Visions of rapture now burst on my sight,
+	Angels descending, bring from above
+	Echoes of mercy, whispers of love.
+
+</li><li>	Perfect submission, all is at rest, 
+	I in my Saviour am happy and blest;
+	Watching and waiting, looking above,
+	Fill’d with His goodness, lost in His love.
+
+<span>	This is my story, this is my song,
+		Praising my Saviour all the day long;
+		This is my story, this is my song,
+		Praising my Saviour all the day long.
+</span>
+
+</li></ol></div>
